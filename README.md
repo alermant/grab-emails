@@ -1,5 +1,7 @@
 # Grab emails
 
+[![Build Status](https://travis-ci.org/alermant/grab-emails.svg?branch=master)](https://travis-ci.org/alermant/grab-emails)
+
 Extract emails from multiline string
 
 ### Installing
